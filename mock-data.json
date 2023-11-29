@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "name": "Item 1",
+    // Other fields...
+  },
+  {
+    "id": 2,
+    "name": "Item 2",
+    // Other fields...
+  }
+  // More items...
+]
